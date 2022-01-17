@@ -44,6 +44,7 @@ namespace Pop_Top_Peek_2
             }
             return tempArray; //returns tempArray.
         }
+
         static string[] pop(string[] popArray) //Defines the pop method.
         {
             Console.WriteLine(popArray[0]); //Outputs the item at the beginning of the array.
